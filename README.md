@@ -6,7 +6,7 @@ This is a program to enable a user to view quotes vote for their favorite quotes
 
 ## Getting Started
 
-Install triangle tracker on your local machine bt cloning this repository:
+My online repository:(https://github.com/Jameskirwa/Quote-App)
 
 
 ### Prerequisites
@@ -95,12 +95,12 @@ If you want to put out a pull request you first have to send us the sample code 
 We use currently have only the first version of this application.
 
 ## Authors
-james kirwa
+James Kirwa
 
 ## Contacts
 
 [Email](https://mail.google.com) - techspaceke@gmail.com <br>
-Phone - +254-716-832-927
+Phone - +254-0795537545
 
 ## License
 
