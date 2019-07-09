@@ -3,11 +3,11 @@
 }
 
 .btns {
-  position: relative;
+  position: absolute;
 }
 
 button {
-  background: rgb(194, 1, 1);
+  background: rgb(194, 4, 4);
   padding: 1px 10px;
 
 }
