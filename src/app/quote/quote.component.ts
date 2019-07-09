@@ -39,7 +39,7 @@ export class QuoteComponent implements OnInit {
     new Quotes(
       3,
       'John moo',
-      'The pessimist sees difficulty in every opportunity. The optimist sees opportunitty in every difficulty.',
+      'I see hope in you ,you are the icon for success.',
       'James',
       new Date(2019, 3, 6),
       0,
