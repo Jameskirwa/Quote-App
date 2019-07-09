@@ -21,7 +21,7 @@ export class QuoteComponent implements OnInit {
     new Quotes(
       1,
       'james kirwa',
-      'To travel is to live.',
+      'To travel is to live dont just chill.',
       'James',
       new Date(2019, 2, 10),
       0,
@@ -30,7 +30,7 @@ export class QuoteComponent implements OnInit {
     new Quotes(
       2,
       'Albright',
-      'Find time for you.',
+      'Find time for you you deserve it.',
       'James',
       new Date(2019, 2, 24),
       0,
