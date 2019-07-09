@@ -1,6 +1,6 @@
 # QUOTE APP
 
-### Author: james kirwa
+### Author: James Kirwa
 
 This is a program to enable a user to view quotes vote for their favorite quotes and also create new quotes. The highest voted quote will be highlighted
 
@@ -99,7 +99,7 @@ James Kirwa
 
 ## Contacts
 
-[Email](https://mail.google.com) - techspaceke@gmail.com <br>
+[Email](https:jameskirwa34@gmail.com) - jameskirwa34@gmail.com <br>
 Phone - +254-0795537545
 
 ## License
