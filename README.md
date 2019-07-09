@@ -74,7 +74,7 @@ You are set to go.
 
 | Behavior: <br>_The program should:_                  | Input:  | Output:                     |
 | :--------------------------------------------------- | :------ | :-------------------------- |
-| Increment the votes                                  | votes clicked | votes++       |
+| Increment the votes                                  | votes clicked | votes like/dislike      |
 
 ## Deployment
 
